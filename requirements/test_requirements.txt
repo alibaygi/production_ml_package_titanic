@@ -1,0 +1,10 @@
+-r requirements.txt
+
+# testing requirements
+pytest
+
+# repo maintenance tooling
+black
+flake8
+mypy
+isort
